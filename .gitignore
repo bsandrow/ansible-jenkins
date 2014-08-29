@@ -1,3 +1,5 @@
 *~
 .vagrant
 Vagrantfile
+.sw[a-z]
+.*.sw[a-z]

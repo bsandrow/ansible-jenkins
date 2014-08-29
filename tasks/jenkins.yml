@@ -19,3 +19,4 @@
 
 # Install/update Jenkins plugins
 - include: plugins.yml
+  when: not skip_plugins
